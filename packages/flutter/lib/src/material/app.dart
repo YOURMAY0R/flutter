@@ -536,6 +536,7 @@ class MaterialApp extends StatefulWidget {
   /// const MaterialApp(
   ///   localizationsDelegates: <LocalizationsDelegate<Object>>[
   ///     // ... app-specific localization delegate(s) here
+  ///     FlutterQuillLocalizations.delegate,
   ///     GlobalMaterialLocalizations.delegate,
   ///     GlobalWidgetsLocalizations.delegate,
   ///   ],
