@@ -32,6 +32,7 @@ docs/releases/Hotfix-Documentation-Best-Practices.md
 
 ## Flutter 3.41 Changes
 
+<<<<<<< HEAD
 ### [3.41.9](https://github.com/flutter/flutter/releases/tag/3.41.9)
 - [flutter/185621](https://github.com/flutter/flutter/pull/185621) Fixes a potential integer overflow that can happen when handling some animated PNG files.
 
@@ -43,6 +44,8 @@ docs/releases/Hotfix-Documentation-Best-Practices.md
 - [flutter/184254](https://github.com/flutter/flutter/issues/184254) When debugging on physical iOS devices and Xcode 26.4+, app often crashes.
 - [flutter/184689](https://github.com/flutter/flutter/issues/184689) When using an ffi Windows package, don't require a plugin class.
 
+=======
+>>>>>>> 559ffa3f75e7402d65a8def9c28389a9b2e6fe42
 ### [3.41.6](https://github.com/flutter/flutter/releases/tag/3.41.6)
 - [flutter/184025](https://github.com/flutter/flutter/pull/184025) Include a fix from Skia that ensures that the correct atlas for the glyph mask format is used consistently.
 - [flutter/182708](https://github.com/flutter/flutter/issues/182708) Visual issues with circles appearing jagged. Especially on thin stroked circles and circles with small radii.
